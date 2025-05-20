@@ -20,9 +20,18 @@ I enjoy helping others and finding smart solutions to improve both gameplay and 
 - Experienced with bots, permissions, and server structure.
 
 ## 🛠️ Technologies I work with
-- Minecraft servers (Spigot, Paper, Proxy)
-- DeluxeMenus, PlaceholderAPI, EssentialsX, LuckPerms, Skript
-- Discord (Moderation, permissions, server setup)
+![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
+![Spigot](https://img.shields.io/badge/Spigot-FFA500?style=for-the-badge&logo=spigotmc&logoColor=white)
+![Paper](https://img.shields.io/badge/Paper-white?style=for-the-badge&logo=paper&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Skript](https://img.shields.io/badge/Skript-5C2D91?style=for-the-badge&logoColor=white)
+![DeluxeMenus](https://img.shields.io/badge/DeluxeMenus-009688?style=for-the-badge&logoColor=white)
+![PlaceholderAPI](https://img.shields.io/badge/PlaceholderAPI-607D8B?style=for-the-badge&logoColor=white)
+![LuckPerms](https://img.shields.io/badge/LuckPerms-4CAF50?style=for-the-badge&logoColor=white)
+![EssentialsX](https://img.shields.io/badge/EssentialsX-3F51B5?style=for-the-badge&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ---
 
