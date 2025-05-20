@@ -29,7 +29,6 @@ I enjoy helping others and finding smart solutions to improve both gameplay and 
 ![PlaceholderAPI](https://img.shields.io/badge/PlaceholderAPI-607D8B?style=for-the-badge&logoColor=white)
 ![LuckPerms](https://img.shields.io/badge/LuckPerms-4CAF50?style=for-the-badge&logoColor=white)
 ![EssentialsX](https://img.shields.io/badge/EssentialsX-3F51B5?style=for-the-badge&logoColor=white)
-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
