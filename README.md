@@ -34,5 +34,10 @@ I enjoy helping others and finding smart solutions to improve both gameplay and 
 
 ---
 
+![KobrexXx's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzekubry&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=dzekubry&theme=tokyonight&border_radius=5)
+
+---
+
 Thanks for stopping by my profile!  
 📬 Feel free to reach out if you're interested in working together or have any questions.
